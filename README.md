@@ -1,4 +1,9 @@
 # PixelSense-Fashion-Image-Classification-using-Deep-Learning
+![Python](https://img.shields.io/badge/Python-3.8+-black?style=flat&logo=python)
+![DL](https://img.shields.io/badge/Deep%20Learning-Convolutional%20Neural%20Network-purple)
+![Dataset](https://img.shields.io/badge/Dataset-Fashion--MNIST-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 PixelSense is a deep learning project focused on classifying grayscale fashion images into predefined apparel categories using neural networks. The project compares a baseline Artificial Neural Network (ANN) with a Convolutional Neural Network (CNN) to highlight the importance of spatial feature learning in image classification tasks.
 The dataset used is **Fashion-MNIST**, which contains 28×28 grayscale images across 10 clothing categories.
 
