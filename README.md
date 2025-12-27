@@ -4,7 +4,7 @@ The dataset used is **Fashion-MNIST**, which contains 28×28 grayscale images ac
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Build a baseline ANN model using flattened pixel values
 - Develop a CNN to capture spatial features from images
 - Compare model performance using accuracy, confusion matrix, and classification report
@@ -12,7 +12,7 @@ The dataset used is **Fashion-MNIST**, which contains 28×28 grayscale images ac
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - **Name:** Fashion-MNIST  
 - **Images:** 28×28 grayscale  
 - **Classes:** 10 apparel categories  
@@ -20,14 +20,14 @@ The dataset used is **Fashion-MNIST**, which contains 28×28 grayscale images ac
 
 ---
 
-## 🧠 Models Implemented
-### 1️⃣ Artificial Neural Network (ANN)
+##  Models Implemented
+###  Artificial Neural Network (ANN)
 - Flattened image input
 - Dense layers with ReLU activation
 - Softmax output layer
 - Used as a baseline model
 
-### 2️⃣ Convolutional Neural Network (CNN)
+###  Convolutional Neural Network (CNN)
 - Convolution + MaxPooling layers
 - Preserves spatial structure of images
 - Dense layers for classification
@@ -35,14 +35,14 @@ The dataset used is **Fashion-MNIST**, which contains 28×28 grayscale images ac
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 - Accuracy
 - Precision, Recall, F1-score
 - Confusion Matrix
 
 ---
 
-## 🚀 Results Summary
+##  Results Summary
 - ANN performed well on visually distinct classes (shoes, bags)
 - ANN struggled with similar upper-body garments (shirts, pullovers)
 - CNN improved classification accuracy and reduced misclassification
@@ -50,7 +50,7 @@ The dataset used is **Fashion-MNIST**, which contains 28×28 grayscale images ac
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - TensorFlow / Keras
 - NumPy
